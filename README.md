@@ -1,2 +1,10 @@
 # godot_game
-my devlog for my small game that i would be publishing on itch.io
+
+My devlog to store my godot files and also showcase my development journey upto deployment on itch.io
+
+# Day 1
+Today I created the repository for my game.
+
+# What's next?
+- Game name to be decided
+- Game theme and also if its 2d or 3d to be decided
