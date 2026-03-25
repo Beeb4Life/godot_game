@@ -2,7 +2,7 @@
 
 My devlog to showcase my development journey upto deployment on itch.io
 
-# Day 1
+# Day 1 - 25/03/2026
 Today I created the repository for my game.
 
 # What's next?
