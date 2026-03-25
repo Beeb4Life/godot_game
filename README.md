@@ -1,6 +1,6 @@
 # godot_game
 
-My devlog to store my godot files and also showcase my development journey upto deployment on itch.io
+My devlog to showcase my development journey upto deployment on itch.io
 
 # Day 1
 Today I created the repository for my game.
